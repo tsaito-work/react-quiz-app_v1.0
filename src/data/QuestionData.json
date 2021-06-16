@@ -1,0 +1,40 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "question": "Reactはどの言語のフレームワークか？",
+            "answer": [
+                "Java",
+                "Python",
+                "C#",
+                "Javascript"
+            ],
+            "correct": 4,
+            "commentary": "ReactはJavasctiptのフレームワークです。"
+        },
+        {
+            "id": 2,
+            "question": "Reactを用いて構築する事が出来るものは？",
+            "answer": [
+                "SPA (Single Page Application)",
+                "RPA (Robotic Process Automation)",
+                "SFA (Sales Force Automation)",
+                "CRM (Customer Relationship Management)"
+            ],
+            "correct": 1,
+            "commentary": "SPA(Single Page Application)が構築出来ます。"
+        },
+        {
+            "id": 3,
+            "question": "Reactでページ遷移を可能にするルーティングライブラリはどれか？",
+            "answer": [
+                "React Pages",
+                "React Router",
+                "React Native",
+                "React Action"
+            ],
+            "correct": 2,
+            "commentary": "React Routerを使用してページ遷移やhistoryを管理できます。"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "QuestionConst": {
+        "INIT_PAGE_INDEX": 0,
+        "PREV_PAGE_INDEX": -1,
+        "NEXT_PAGE_INDEX": 1
+    }
+}
